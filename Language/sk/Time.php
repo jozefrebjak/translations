@@ -24,7 +24,7 @@ return [
     'hours'          => '{0, plural, =1{# hodina} other{# hodiny}}',
     'minutes'        => '{0, plural, =1{# minúta} other{# minúty}}',
     'seconds'        => '{0, plural, =1{# sekunda} other{# sekundy}}',
-    'ago'            => '{0} pred',
+    'ago'            => 'pred {0}',
     'inFuture'       => 'za {0}',
     'yesterday'      => 'Včera',
     'tomorrow'       => 'Zajtra',
